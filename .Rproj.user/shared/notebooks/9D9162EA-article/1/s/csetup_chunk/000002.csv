@@ -1,0 +1,7 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","library(""citr"")"
+"0","Sys.setlocale(""LC_ALL"", 'pt_BR.UTF-8')"
+"1","[1]"
+"1"," ""pt_BR.UTF-8/pt_BR.UTF-8/pt_BR.UTF-8/C/pt_BR.UTF-8/C"""
+"1","
+"
